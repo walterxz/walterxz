@@ -1,11 +1,12 @@
 ### 👋 Hi there, I`m Walter 🌎👨🏻‍💻
 
 ## I`m Frontend Developer
+_________________
 
-<img align="right" width="100" height="100" src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif">
+<img align="right" width="100" height="100" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 <img align="right" width="100" height="100" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
-____________________
+
 
 
 ### 🌱 I’m currently learning new technologies in:
@@ -26,8 +27,8 @@ ____________________
 ### JS Frameworks:
 
 [![](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white)](https://unocero.dev)
-[![](https://img.shields.io/badge/-Angular-blue?style=flat-square&logo=react&logoColor=white)](https://unocero.dev)
-[![](https://img.shields.io/badge/-Angular-green?style=flat-square&logo=vue.js&logoColor=white)](https://unocero.dev)
+[![](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)](https://unocero.dev)
+[![](https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue.js&logoColor=white)](https://unocero.dev)
 [![](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express&logoColor=white)](https://unocero.dev)
 
 
@@ -51,9 +52,6 @@ ____________________
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-
-
-
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -67,10 +65,17 @@ ____________________
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
+
+
+___
+<p align="center">
+<img align="center" width="31" height="23" src="https://i.gifer.com/YItp.gif">
+</p>
+
+
+
 [website]: https://unocero.dev
 [linkedin]: https://www.linkedin.com/in/walterxz/
-
-
 
 <!--
 **walterxz/walterxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
