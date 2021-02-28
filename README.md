@@ -1,7 +1,6 @@
 ### 👋 Hi there, I`m Walter 🌎👨🏻‍💻
 
 ## I`m Frontend Developer
-_________________
 
 <img align="right" width="100" height="100" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 <img align="right" width="100" height="100" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
@@ -64,13 +63,6 @@ _________________
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
-
-
-___
-<p align="center">
-<img align="center" width="31" height="23" src="https://i.gifer.com/YItp.gif">
-</p>
 
 
 
